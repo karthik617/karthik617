@@ -41,9 +41,3 @@ A passionate Software Developer who loves building delightful, reliable, and mai
 ---
 
 [![](https://visitcount.itsvg.in/api?id=karthik617&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-If you'd like, I can:
-- update the README in your repo directly (I will need permission to push), or
-- tweak wording, add project descriptions, or rearrange sections — tell me which parts you'd like customized.
