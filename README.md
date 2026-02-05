@@ -19,7 +19,6 @@ A passionate Software Developer who loves building delightful, reliable, and mai
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yadavkarthik617@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/karthik617?label=Follow&style=social)](https://github.com/karthik617)
 
-> Replace the email above with your preferred contact address.
 
 ---
 
